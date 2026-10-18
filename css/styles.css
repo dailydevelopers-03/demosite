@@ -1,0 +1,22 @@
+
+body {
+  padding-top: 50px;
+}
+
+.body {
+  padding: 40px 15px;
+  text-align: center;
+}
+.demoheader{
+ text-align:center;
+ padding-left:18px;
+ padding-right:18px
+}
+.description{
+ text-align:center;
+ size:12px;
+ color:#286661;
+   
+}
+
+
